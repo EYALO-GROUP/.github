@@ -15,7 +15,7 @@
 	<a href="https://github.com/EYALO-GROUP"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/compagny/eyalogroup"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/EyaloGroup"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.twitter.com/EyaloGroup"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<!--<a href="https://www.twitter.com/EyaloGroup"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>-->
 </p>
 <hr/>
 * Credits: [EYALO Core Team](https://github.com/EYALO-GROUP)<br/>
